@@ -23,6 +23,23 @@ Azure || DevOps || Cloud Computing || Automation ||
 
 Teamwork || Problem-solving || Critical-thinking || Decision-Making || Communication
 
+Key Responsibilities :
+Design and implement build, deployment, and configuration management scripts.
+Build and test automation tools for infrastructure provisioning
+Handle code deployments in all environments
+Manage CI and CD tools
+
+
+> Expertise on Azure services like Azure App Service, Azure Event Hub, Azure Cosmos DB, Azure Blob storage, Azure functions, Azure API management, Azure Service Bus,Azure Kubernetes Service, AzureContainerApps ,Azure AppInsights, ARM template, Azure Front Door, Azure VNet, Azure Key Vault, Azure Active Directory,Load Balancer, Application Gateway, Traffic Manager, VM, VMSS, Azure DevOps, MySQL Server, DNS Zones, IaC and NAT Gateway
+
+
+> Expertise on end-to-end automation of deployment and code commit/review process using Azure DevOps 
+
+Skills / Tools Used -
+Cloud - Microsoft Azure (IaaS & PaaS services)
+DevOps - Microsoft Azure DevOps, SonarQube, PowerShell, Terraform, Ansible, Docker and Kubernetes
+PowerPlatform:Power Automate,Power BI,PowerApps,Dataverse and Powervirtual Agents
+
 Sharing achievements and working updates on LinkedIn
 
 Microsoft Certified Devops Engineer Expert(AZ-400+AZ-104) | Microsoft Certified: Azure Solutions Architect Expert | MCT 🏆✨⏱👨‍✈️ Microsoft Certified: Azure Network Engineer Associate| Microsoft Certified: Azure Security Engineer Associate 🎗️🎬🌺💬 Microsoft Certified: Azure Developer Associate| Microsoft Certified: Power Platform Functional Consultant Associate 🏆✨⏱👨‍✈️
